@@ -1,0 +1,72 @@
+
+InternBridge: Data Science Internship Skill Gap Analyzer
+
+Project Summary
+---------------
+This project analyzes job postings to identify important skills required in the job market.
+The dataset contains 1167 job posts and 5 job categories.
+
+Dataset Columns
+---------------
+job_id, category, job_title, job_description, job_skill_set, skills_list, skill_count, description_word_count, combined_text, skills_text, student_job_match_score
+
+Main Findings
+-------------
+1. Total number of job posts analyzed: 1167
+2. Total number of job categories: 5
+3. Number of data-related job posts identified: 1155
+4. Percentage of data-related jobs: 98.97%
+5. Average number of skills per job post: 17.85
+6. Average job description word count: 516.82
+
+Top 10 Most Required Skills
+---------------------------
+skill
+communication            1092
+problem solving           878
+adaptability              588
+teamwork                  569
+collaboration             341
+leadership                325
+time management           316
+interpersonal skills      288
+customer service          272
+relationship building     267
+
+Top 10 Data-Related Skills
+--------------------------
+skill
+communication            1081
+problem solving           873
+adaptability              588
+teamwork                  566
+collaboration             340
+leadership                323
+time management           313
+interpersonal skills      288
+customer service          271
+relationship building     262
+
+Student Skill Gap Result
+------------------------
+Student Skills:
+python, sql, excel, power bi, data analysis, machine learning, statistics
+
+Matched Skills:
+data analysis
+
+Missing Skills:
+adaptability, attention to detail, business development, collaboration, communication, customer service, financial analysis, interpersonal skills, leadership, negotiation, organizational skills, presentation skills, problem solving, project management, relationship building, sales, strategic thinking, teamwork, time management
+
+Skill Match Percentage:
+5.0%
+
+Recommended Skills to Learn Next
+--------------------------------
+adaptability, attention to detail, business development, collaboration, communication, customer service, financial analysis, interpersonal skills, leadership, negotiation
+
+Conclusion
+----------
+The analysis helps identify the most demanded skills from job postings.
+For a data science undergraduate, this project can be used to understand current job market expectations,
+compare personal skills with employer requirements, and plan future learning goals.

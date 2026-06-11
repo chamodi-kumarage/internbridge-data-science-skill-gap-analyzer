@@ -1,0 +1,17 @@
+﻿required_skill,status,skill_rank,skill_demand_count,priority_score
+problem solving,Missing,1,7,1
+communication,Missing,2,7,1
+collaboration,Missing,4,5,2
+adaptability,Missing,7,4,3
+data visualization,Missing,8,3,4
+etl,Missing,9,3,4
+data mining,Missing,10,3,4
+leadership,Missing,11,3,4
+attention to detail,Missing,12,2,5
+teamwork,Missing,13,2,5
+azure,Missing,14,2,5
+data security,Missing,15,2,5
+big data,Missing,16,2,5
+data management,Missing,17,2,5
+tableau,Missing,19,2,5
+data extraction,Missing,20,2,5

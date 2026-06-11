@@ -1,0 +1,33 @@
+
+InternBridge: Data Science Internship Skill Gap Analyzer
+Improved Role Filtering Report
+
+Dataset Summary
+---------------
+Total job posts: 1167
+True data science / analytics roles: 7
+Manual review roles: 1
+True data science / analytics internships: 0
+Target role percentage: 0.6%
+
+Why this fix was needed
+-----------------------
+The previous logic treated many general HR, Finance, Sales, and IT jobs as data science jobs because they mentioned words such as data, Excel, reporting, SQL, dashboard, or analytics.
+The new logic only analyzes jobs with strong data science, data analytics, data engineering, machine learning, AI, or business intelligence role evidence.
+Ambiguous jobs are marked as Review and are not included in the final skill-gap calculation.
+
+Student Skills
+--------------
+python, sql, excel, power bi, data analysis, machine learning, statistics
+
+Skill Gap Result
+----------------
+Required skills considered: 20
+Matched skills: data analysis, power bi, python, sql
+Missing skills: adaptability, attention to detail, azure, big data, collaboration, communication, data extraction, data management, data mining, data security, data visualization, etl, leadership, problem solving, tableau, teamwork
+Skill match percentage: 20.0%
+
+Important Note
+--------------
+If the goal is strictly data science internships, this dataset currently has very few or no true data science internship roles.
+For a stronger internship-focused project, add more internship postings with titles such as Data Science Intern, Data Analyst Intern, Machine Learning Intern, BI Intern, or Data Engineering Intern.
